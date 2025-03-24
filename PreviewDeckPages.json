@@ -1,0 +1,14 @@
+{
+	"id": "preview_deck_pages",
+	"name": "Preview Deck Pages",
+	"display_name": "Preview Deck Pages",
+	"author": "RattlingSnow353",
+	"description": "Preview deck pages",
+	"prefix": "pdp",
+	"main_file": "overrides.lua",
+	"priority": 99999999999999999999999999999999999999999999999999999999999999999999999999999999,
+	"badge_colour": "005b94",
+	"badge_text_colour": "99f0ca",
+	"version": "0.1.0",
+	"dependencies": []
+}
